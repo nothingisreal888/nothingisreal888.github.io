@@ -1,7 +1,14 @@
+@font-face {
+  font-family: "Pixelywave";
+  src: 
+    local("Pixelywave"),
+    url("assets/PixelywaveTechFuture-7OdJw.otf") format("otf");
+}
+
 body {
   background: #000000;
   color: #ffffff;
-  font-family: "Sans-Serif";
+  font-family: "Pixelywave";
 }
 
 #mainHead {
