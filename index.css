@@ -2,7 +2,7 @@
   font-family: "Pixelywave";
   src: 
     local("Pixelywave"),
-    url("assets/PixelywaveTechFuture-7OdJw.otf") format("otf");
+    url("assets/Pixelywave.woff2") format("woff2");
 }
 
 body {
