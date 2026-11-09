@@ -1,12 +1,12 @@
 @font-face {
-        font-family: "Dystopian";
-        src:
-          local("Dystopian"),
-          url("Sddystopian.woff2") format("woff2");
-      }
+  font-family: "Dystopian";
+  src:
+    local("Dystopian"),
+    url("Sddystopian.woff2") format("woff2");
+}
       
-      html {
-        background: #010f25;
-        color: #eeeeff;
-        font-family: "Dystopian";  
-      }
+html {
+  background: #010f25;
+  color: #eeeeff;
+  font-family: "Dystopian";  
+}
