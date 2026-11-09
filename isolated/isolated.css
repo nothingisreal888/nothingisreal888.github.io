@@ -8,5 +8,12 @@
 html {
   background: #010f25;
   color: #eeeeff;
-  font-family: "Dystopian";  
+}
+
+h1 {
+  font-family: "Dystopian";
+}
+
+p {
+  font-family: "Arial";
 }
